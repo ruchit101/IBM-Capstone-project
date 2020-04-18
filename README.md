@@ -1,2 +1,2 @@
 # first-project
-The Battle of Neighbourhoods
+This is the capstone project file
